@@ -1,0 +1,33 @@
+﻿  Admin.cpp
+  BankSystemProject.cpp
+C:\Users\Seif\OneDrive\Desktop\CS-20-route\Project Bank System\Git BankSystem\BankSystemProject\BankSystemProject\Client.h(71,10): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+  (compiling source file 'BankSystemProject.cpp')
+  
+C:\Users\Seif\OneDrive\Desktop\CS-20-route\Project Bank System\Git BankSystem\BankSystemProject\BankSystemProject\Client.h(76,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'BankSystemProject.cpp')
+  
+C:\Users\Seif\OneDrive\Desktop\CS-20-route\Project Bank System\Git BankSystem\BankSystemProject\BankSystemProject\Client.h(85,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'BankSystemProject.cpp')
+  
+C:\Users\Seif\OneDrive\Desktop\CS-20-route\Project Bank System\Git BankSystem\BankSystemProject\BankSystemProject\Client.h(96,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'BankSystemProject.cpp')
+  
+C:\Users\Seif\OneDrive\Desktop\CS-20-route\Project Bank System\Git BankSystem\BankSystemProject\BankSystemProject\BankSystemProject.cpp(27,10): warning C4129: 'c': unrecognized character escape sequence
+C:\Users\Seif\OneDrive\Desktop\CS-20-route\Project Bank System\Git BankSystem\BankSystemProject\BankSystemProject\BankSystemProject.cpp(44,10): warning C4129: 'e': unrecognized character escape sequence
+  Client.cpp
+C:\Users\Seif\OneDrive\Desktop\CS-20-route\Project Bank System\Git BankSystem\BankSystemProject\BankSystemProject\Client.h(71,10): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+  (compiling source file 'Client.cpp')
+  
+C:\Users\Seif\OneDrive\Desktop\CS-20-route\Project Bank System\Git BankSystem\BankSystemProject\BankSystemProject\Client.h(76,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Client.cpp')
+  
+C:\Users\Seif\OneDrive\Desktop\CS-20-route\Project Bank System\Git BankSystem\BankSystemProject\BankSystemProject\Client.h(85,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Client.cpp')
+  
+C:\Users\Seif\OneDrive\Desktop\CS-20-route\Project Bank System\Git BankSystem\BankSystemProject\BankSystemProject\Client.h(96,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Client.cpp')
+  
+  Employee.cpp
+  Person.cpp
+  Generating Code...
+  BankSystemProject.vcxproj -> C:\Users\Seif\OneDrive\Desktop\CS-20-route\Project Bank System\Git BankSystem\BankSystemProject\x64\Debug\BankSystemProject.exe
